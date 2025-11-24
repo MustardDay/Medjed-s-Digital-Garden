@@ -1,5 +1,6 @@
 name: Deploy to neocities
 
+
 # only run on changes to main
 on:
   push:
