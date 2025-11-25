@@ -21,7 +21,7 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
       - name: deploy2nekoweb
-        uses: indiefellas/deploy2nekoweb@1.0.0
+        uses: indiefellas/deploy2nekoweb@v1.0.0
         with:
           nekoweb-api-key: ${{ secrets.NEKOWEB_API_KEY }}
           nekoweb-cookie: ${{ secrets.NEKOWEB_COOKIE }}
