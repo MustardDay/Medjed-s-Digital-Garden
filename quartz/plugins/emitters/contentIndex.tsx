@@ -35,7 +35,7 @@ const defaultOptions: Options = {
   enableRSS: true,
   rssLimit: 10,
   rssFullHtml: false,
-  rssSlug: "siteIndex",
+  rssSlug: "index",
   includeEmptyFiles: true,
 }
 
