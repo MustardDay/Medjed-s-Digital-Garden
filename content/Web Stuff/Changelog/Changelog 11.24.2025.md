@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-24T21:58:53.733-05:00","modified":"2025-11-24T23:53:49.986-05:00","published":"2025-11-24T23:53:49.986-05:00","cssclasses":""}
+{"publish":true,"created":"2025-11-24T21:58:53.733-05:00","modified":"2025-11-25T00:45:10.063-05:00","published":"2025-11-25T00:45:10.063-05:00","cssclasses":""}
 ---
 
 <h1>Changelog 11/24/25</h1>
@@ -15,6 +15,7 @@
 <li>Experiment with theme colors, patterns, images, embeds , etc
 <li>Plan layout so i can prep to learn how to edit it</li>
 <li>figure out why obsidian only takes html tags and not it's own syntax</li>
+<li> I JUST NEED TO FILTER RSS WHY DOESN'T THE DOCUMENTATION SAY ANYTHINGGG</li>
 <li>Do homework ig lol</li>
 <li>Get new glasses</li>
 </ul>
