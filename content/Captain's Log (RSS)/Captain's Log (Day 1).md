@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-11-24T00:44:17.499-05:00","modified":"2025-11-25T02:13:18.643-05:00","published":"2025-11-25T02:13:18.643-05:00","cssclasses":""}
+{"publish":true,"created":"2025-11-24T00:44:17.499-05:00","modified":"2025-11-25T02:16:43.869-05:00","published":"2025-11-25T02:16:43.869-05:00","cssclasses":""}
 ---
 
-<h1>Captain's Log 11/24/25</h1>
+<h1>11/24/25</h1>
 new test. hopefully this turns into html
 third try's the charm?
 AAAA IT WORKED!
