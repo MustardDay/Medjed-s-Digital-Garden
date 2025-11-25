@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-23T23:55:54.987-05:00","modified":"2025-11-24T20:42:41.670-05:00","published":"2025-11-24T20:42:41.670-05:00","cssclasses":""}
+{"publish":true,"created":"2025-11-23T23:55:54.987-05:00","modified":"2025-11-24T20:50:10.418-05:00","published":"2025-11-24T20:50:10.418-05:00","cssclasses":""}
 ---
 
 <h1> web dev directory is back!</h1>
