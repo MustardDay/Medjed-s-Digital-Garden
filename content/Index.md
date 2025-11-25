@@ -1,6 +1,7 @@
 ---
-{"publish":true,"created":"2025-11-23T23:55:54.987-05:00","modified":"2025-11-24T07:23:13.731-05:00","published":"2025-11-24T07:23:13.731-05:00","cssclasses":""}
+{"publish":true,"created":"2025-11-23T23:55:54.987-05:00","modified":"2025-11-24T20:42:41.670-05:00","published":"2025-11-24T20:42:41.670-05:00","cssclasses":""}
 ---
 
-I forgot I need at least one note lol
-more: obsidian://open?vault=Obsidian%20Vault&file=web%20dev%20directory%20will%20be%20back%20soon!
+<h1> web dev directory is back!</h1>
+this website is under construction since i moved to obsidian and quartz
+but here is the link: <a href="https://medjedsdigitalgarden.nekoweb.org/WebDevDirectory.html"> <button> Web Dev Mega-Directory</button> </a>
