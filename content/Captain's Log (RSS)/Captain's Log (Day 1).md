@@ -1,9 +1,12 @@
 ---
-{"publish":true,"created":"2025-11-24T00:44:17.499-05:00","modified":"2025-11-24T18:08:01.339-05:00","published":"2025-11-24T18:08:01.339-05:00","cssclasses":""}
+{"publish":true,"created":"2025-11-24T00:44:17.499-05:00","modified":"2025-11-25T02:16:43.869-05:00","published":"2025-11-25T02:16:43.869-05:00","cssclasses":""}
 ---
 
+<h1>11/24/25</h1>
 new test. hopefully this turns into html
 third try's the charm?
 AAAA IT WORKED!
+
+---
 
 I switched from basic HTML and CSS to Quartz SSG and Obsidian cause its easier. I haven't logged into Obsidian on my phone yet though because I'm NOT fuckin paying for sync!!!!!! Anyway I'm gonna try to use a plugin. Hopefully I can also deploy from my phone. I used a plugin to deploy. Next step is adding style to it. And figuring out where to put the directory. And learn wiki links. Anyway I really love this setup because it's easier for me to upload but also because it's easier to customize? in a way? I mean I sort of want more control but at the same time I don't mind. I will have to do some work to figure out how the CSS works, because it says its heavy on JS and I'm really not interested in learning that.

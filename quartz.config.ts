@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "medjedsdigitalgarden.neocities.org",
+    baseUrl: "medjedsdigitalgarden.nekoweb.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -83,6 +83,8 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        rssFullHtml: true,
+        rssSlug: "index"
       }),
       Plugin.Assets(),
       Plugin.Static(),
