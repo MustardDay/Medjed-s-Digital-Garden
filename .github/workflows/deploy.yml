@@ -1,3 +1,5 @@
+name: Build & Deploy to Nekoweb and Neocities
+
 on: [push]
 
 concurrency: # prevent concurrent deploys doing strange things
@@ -21,10 +23,18 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
       - name: deploy2nekoweb
-        uses: indiefellas/deploy2nekoweb@v1.0.0
+        uses: indiefellas/deploy2nekoweb@c1d65f16ab0f20978c7bb20afe39aa900c1297a6
         with:
           nekoweb-api-key: ${{ secrets.NEKOWEB_API_KEY }}
           nekoweb-cookie: ${{ secrets.NEKOWEB_COOKIE }}
           nekoweb-domain: 'medjedsdigitalgarden.nekoweb.org'
           nekoweb-username: 'mustarddayart'
           directory: 'public'
+      - name: Deploy to neocities
+        uses: bcomnes/deploy-to-neocities@v3
+        with:
+          api_key: ${{ secrets.NEOCITIES_API_TOKEN }}
+          cleanup: false
+          neocities_supporter: false # set this to true if you have a supporter account and want to bypass unsuported files filter.
+          preview_before_deploy: true # print a deployment plan prior to waiting for files to upload.
+          dist_dir: public
