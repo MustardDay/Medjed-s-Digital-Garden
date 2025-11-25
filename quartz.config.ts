@@ -84,7 +84,7 @@ const config: QuartzConfig = {
         enableSiteMap: true,
         enableRSS: true,
         rssFullHtml: true,
-        rssSlug: "index"
+        rssSlug: "Captain's Log (RSS)"
       }),
       Plugin.Assets(),
       Plugin.Static(),
