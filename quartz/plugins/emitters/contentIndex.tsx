@@ -75,7 +75,7 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndexMap, limit?:
       return f1.title.localeCompare(f2.title)
     })
        .filter(([slug, _content]) =>
-  slug.startsWith("content/Captain's Log (RSS)"))
+  slug.startsWith("Captain's Log (RSS)"))
     .map(([slug, content]) => 
   createURLEntry(simplifySlug(slug), content))
     .slice(0, limit ?? idx.size)
