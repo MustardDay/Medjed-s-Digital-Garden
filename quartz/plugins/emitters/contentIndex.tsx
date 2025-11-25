@@ -36,7 +36,7 @@ const defaultOptions: Options = {
   rssLimit: 10,
   rssFullHtml: false,
   rssSlug: "index",
-  includeEmptyFiles: true,
+  includeEmptyFiles: false,
 }
 
 function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string {
