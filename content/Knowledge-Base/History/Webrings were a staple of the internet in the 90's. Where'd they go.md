@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Webrings were a staple of the internet in the 90's. Where'd they go?","description":"Before search engines were what they are today, webrings were a great way to find websites that interested you. So what happened to them?","created":"2025-11-26","modified":"2025-11-26T00:58:55.316-05:00","published":"2021-05-14","tags":["clippings"],"cssclasses":""}
+{"publish":true,"aliases":["webring"],"title":"Webrings were a staple of the internet in the 90's. Where'd they go?","description":"Before search engines were what they are today, webrings were a great way to find websites that interested you. So what happened to them?","created":"2025-11-26","modified":"2025-12-03T01:40:48.352-05:00","published":"2021-05-14","tags":["clippings"],"cssclasses":"","source":"https://hover.blog/what-ever-happened-to-webrings/","author":["[[Hover]]"]}
 ---
 
 ## Inspiration
